@@ -1,0 +1,26 @@
+{
+  "name": "loopback-load-user",
+  "version": "0.0.1",
+  "description": "Auto-load Loopback User and Role models",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CliffChaney/loopback-load-user.git"
+  },
+  "keywords": [
+    "loopback",
+    "node",
+    "user",
+    "role",
+    "ACL"
+  ],
+  "author": "Cliff Chaney",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CliffChaney/loopback-load-user/issues"
+  },
+  "homepage": "https://github.com/CliffChaney/loopback-load-user#readme"
+}
